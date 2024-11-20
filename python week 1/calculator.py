@@ -28,5 +28,4 @@ def calculator():
     except ValueError:
         print("Error: Please enter valid numbers.")
 
-# Run the calculator
 calculator()
